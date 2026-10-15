@@ -1452,7 +1452,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shumi](https://shumi.ai) `https://mcp.shumi.ai/mcp`
   [![Shumi MCP connector](https://glama.ai/mcp/connectors/ai.shumi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.shumi/mcp)
   🔓 - Crypto prices, trends, funding rates, sentiment, narratives, market regime and pair ideas; free key.
-  - [Signal Band](https://signalband.net/developers?utm_source=github&utm_medium=organic&utm_campaign=dir-punkpeye-remote) `https://signalband.net/mcp`
+- [Signal Band](https://signalband.net/developers?utm_source=github&utm_medium=organic&utm_campaign=dir-punkpeye-remote) `https://signalband.net/mcp`
   [![Signal Band MCP connector](https://glama.ai/mcp/connectors/net.signalband/decision-engines/badges/score.svg)](https://glama.ai/mcp/connectors/net.signalband/decision-engines)
   🔓 🔑 - Evidence-weighted decision engines for venture and AI business cases: fund, pilot or stop, by published rules.
 - [Signed](https://mcp.signed.com) `https://mcp.signed.com`
